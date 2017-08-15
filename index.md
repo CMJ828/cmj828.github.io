@@ -1,3 +1,7 @@
+---
+title: This will be used as the title-tag of the page head
+---
+
 ## Education
 
 <img src="https://raw.githubusercontent.com/CMJ828/cmj828.github.io/master/SDSU.jpg" width="125" align="middle">
