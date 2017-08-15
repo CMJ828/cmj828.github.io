@@ -30,4 +30,4 @@ title: Welcome!
 
 ### Contact
 
-:envelope: conorjuengst@gmail.com
+:envelope: <conorjuengst@gmail.com>
