@@ -18,4 +18,4 @@ title: Welcome!
 
 [Tableau Public](https://public.tableau.com/profile/conor.juengst)
 
-[<img src="https://raw.githubusercontent.com/CMJ828/cmj828.github.io/master/Judge v. Stanton.png" height="500" align="middle" title="Click for Interactive Version">](https://public.tableau.com/profile/conor.juengst#!/vizhome/Judgev_Stanton/Judgev_Stanton)
+[<img src="https://raw.githubusercontent.com/CMJ828/cmj828.github.io/master/Diamonds.png" height="500" align="middle" title="Click for Interactive Version">](https://public.tableau.com/profile/conor.juengst#!/vizhome/DiamondsDataSet-DensitybyCut/Circle)
