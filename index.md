@@ -14,9 +14,9 @@ title: Welcome!
 
 ### Portfolios
 
-[GitHub](https://github.com/CMJ828/portfolio)
+:link: [GitHub](https://github.com/CMJ828/portfolio)
 
-[Tableau Public](https://public.tableau.com/profile/conor.juengst)
+:link: [Tableau Public](https://public.tableau.com/profile/conor.juengst)
 
 ---
 
