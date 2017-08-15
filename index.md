@@ -2,4 +2,4 @@
 
 [Tableau Public Portfolio](https://public.tableau.com/profile/conor.juengst)
 
-<img src="https://raw.githubusercontent.com/CMJ828/cmj828.github.io/master/SDSU.jpg" width="200"><img src="https://raw.githubusercontent.com/CMJ828/cmj828.github.io/master/SIE.jpg" height="200">
+<img src="https://raw.githubusercontent.com/CMJ828/cmj828.github.io/master/SDSU.jpg" width="200" align="middle"><img src="https://raw.githubusercontent.com/CMJ828/cmj828.github.io/master/SIE.jpg" height="200" align="middle">
