@@ -18,4 +18,6 @@ title: Welcome!
 
 [Tableau Public](https://public.tableau.com/profile/conor.juengst)
 
-[<img src="https://raw.githubusercontent.com/CMJ828/cmj828.github.io/master/Fiji Earthquakes.png" height="500" align="middle" title="Click for Interactive Version">](https://public.tableau.com/profile/conor.juengst#!/vizhome/FijiEarthquakes/FijiEarthquakes)
+---
+
+[<img src="https://raw.githubusercontent.com/CMJ828/cmj828.github.io/master/Fiji Earthquakes.png" height="450" width="687" align="middle" title="Click for Interactive Version">](https://public.tableau.com/profile/conor.juengst#!/vizhome/FijiEarthquakes/FijiEarthquakes)
