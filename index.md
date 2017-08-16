@@ -12,15 +12,15 @@ title: Welcome!
 
 ---
 
-### Contact
-
-> :envelope: <conorjuengst@gmail.com>
-
 ### Portfolios
 
 :link: [GitHub](https://github.com/CMJ828/portfolio)
 
 :link: [Tableau Public](https://public.tableau.com/profile/conor.juengst)
+
+### Contact
+
+> :envelope: <conorjuengst@gmail.com>
 
 ---
 
