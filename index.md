@@ -12,6 +12,10 @@ title: Welcome!
 
 ---
 
+### Contact
+
+> :envelope: <conorjuengst@gmail.com>
+
 ### Portfolios
 
 :link: [GitHub](https://github.com/CMJ828/portfolio)
@@ -25,9 +29,3 @@ title: Welcome!
 ---
 
 [<img src="https://raw.githubusercontent.com/CMJ828/cmj828.github.io/master/Fisher's Iris Data.png" align="middle" title="Click for Interactive Version">](https://public.tableau.com/profile/conor.juengst#!/vizhome/FishersIrisData-Cluster/FishersIrisData)
-
----
-
-### Contact
-
-> :envelope: <conorjuengst@gmail.com>
