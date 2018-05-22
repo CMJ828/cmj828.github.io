@@ -4,7 +4,7 @@ title: π
 
 ## Work :chart_with_upwards_trend:
 
-<img src="https://raw.githubusercontent.com/ConorJuengst/conorjuengst.github.io/master/ECG2.png" height="100" align="middle" title="Data Analyst">
+<img src="https://raw.githubusercontent.com/ConorJuengst/conorjuengst.github.io/master/ECG2.png" height="80" align="middle" title="Data Analyst">
 <img src="https://raw.githubusercontent.com/ConorJuengst/conorjuengst.github.io/master/SIE.jpg" height="100" align="middle" title="Project Administrator">
 <img src="https://raw.githubusercontent.com/ConorJuengst/conorjuengst.github.io/master/SDZ.jpg" height="100" align="middle" title="Cash Office Assistant">
 
